@@ -1,0 +1,21 @@
+{
+  "name": "process-monitor",
+  "version": "1.0.0",
+  "description": "Node.js process monitor with HTTP server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "process",
+    "monitor",
+    "http",
+    "server"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
